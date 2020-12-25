@@ -4,4 +4,3 @@ The repo consisits of scripts written for an AUV that can successfully maneuver 
 Autonomous Underwater Vehicle Challenge. We calibrated multiple sensors like barometer and gyrometer and programmed a raspberry-pi to
 control the thrusters based on the information received from these sensors for this project.
 
-{% include video.html %} 
